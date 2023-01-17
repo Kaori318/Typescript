@@ -1,0 +1,18 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+[*.{ts, js}]
+indent_style = tab
+indent_size = tab
+tab_size = 2
+
+[*.{js}]
+
+[{package.json, tsconfig*.json}]
+indent_style = tab
+indent_size = tab
+tab_size = 2
