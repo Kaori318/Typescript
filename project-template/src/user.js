@@ -19,3 +19,11 @@ export function renderUserBlock (favoriteItemsAmount) {
     `
   )
 }
+
+export function getUserData() {
+
+}
+
+export function getFavoritesAmount() {
+  
+}
